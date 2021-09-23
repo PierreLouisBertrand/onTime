@@ -35,7 +35,7 @@
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA9CNJHJG0sLfMww9DYyyanibNl_WzLC_4" />
+            android:value="ADD API KEY" />
 
         <receiver android:name=".NotificationBroadcast"/>
     </application>
